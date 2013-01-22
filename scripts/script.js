@@ -86,7 +86,7 @@ var obj = {};
 				};
 			};
 
-			//wheelEntries.sort(function() {return 0.5 - Math.random()}); // randomize sort
+			wheelEntries.sort(function() {return 0.5 - Math.random()}); // randomize sort
 
 			arc = Math.PI / (wheelEntries.length / 2);
 
